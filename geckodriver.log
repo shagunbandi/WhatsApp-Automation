@@ -1,0 +1,535 @@
+1589546359918	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tl/g7krxsl96xb8qz7r7vbpjh55_dwyb3/T/rust_mozprofileD2ODdC"
+1589546360325	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589546360527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589546360527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589546360527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589546360527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589546362006	Marionette	INFO	Listening on port 53858
+1589546362085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6A0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1589546948685	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tl/g7krxsl96xb8qz7r7vbpjh55_dwyb3/T/rust_mozprofilewr5NNY"
+1589546949242	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589546949442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589546949442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589546949442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589546949442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589546951143	Marionette	INFO	Listening on port 54320
+1589546951157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+1589546984401	Marionette	INFO	Stopped listening on port 54320
+1589546985750	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tl/g7krxsl96xb8qz7r7vbpjh55_dwyb3/T/rust_mozprofilel6SSvn"
+1589546986165	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589546986356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589546986356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589546986356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589546986356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589546987833	Marionette	INFO	Listening on port 54407
+1589546987912	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB40006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1589547048744	Marionette	INFO	Stopped listening on port 54407
+1589547078602	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tl/g7krxsl96xb8qz7r7vbpjh55_dwyb3/T/rust_mozprofilebDtiFv"
+1589547078968	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589547079170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589547079170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589547079170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589547079170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589547080772	Marionette	INFO	Listening on port 54538
+1589547080859	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1589548269306	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tl/g7krxsl96xb8qz7r7vbpjh55_dwyb3/T/rust_mozprofilew4c1sk"
+1589548269708	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589548269908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589548269908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589548269909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589548269909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589548271701	Marionette	INFO	Listening on port 55814
+1589548271763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6A0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1589548486952	Marionette	INFO	Stopped listening on port 55814
+1589548490645	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tl/g7krxsl96xb8qz7r7vbpjh55_dwyb3/T/rust_mozprofiletAjNVU"
+1589548491026	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589548491226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589548491226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589548491226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589548491226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589548492766	Marionette	INFO	Listening on port 56133
+1589548492795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+1589548508122	Marionette	INFO	Stopped listening on port 56133
+1589548522846	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tl/g7krxsl96xb8qz7r7vbpjh55_dwyb3/T/rust_mozprofilehMMkUs"
+1589548523249	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589548523443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589548523443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589548523443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589548523443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589548524951	Marionette	INFO	Listening on port 56211
+1589548525000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+1589548547574	Marionette	INFO	Stopped listening on port 56211
+1589548571171	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tl/g7krxsl96xb8qz7r7vbpjh55_dwyb3/T/rust_mozprofileW1fEbg"
+1589548571534	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589548571726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589548571726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589548571726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589548571726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589548573243	Marionette	INFO	Listening on port 56308
+1589548573323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1589550710237	Marionette	INFO	Stopped listening on port 56308
+1589550712643	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tl/g7krxsl96xb8qz7r7vbpjh55_dwyb3/T/rust_mozprofile43jr9w"
+1589550713152	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589550713344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589550713345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589550713345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589550713345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589550714980	Marionette	INFO	Listening on port 56632
+1589550715018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:402:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+Extension error: TypeError: requestBody is null moz-extension://80951ebe-3860-a245-ba1d-b7bc0ee39c0e/background.js 269
+[[Exception stack
+@moz-extension://80951ebe-3860-a245-ba1d-b7bc0ee39c0e/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:620:13
+fire@resource://gre/modules/ExtensionChild.jsm:928:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:932:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+Extension error: TypeError: requestBody is null moz-extension://80951ebe-3860-a245-ba1d-b7bc0ee39c0e/background.js 269
+[[Exception stack
+@moz-extension://80951ebe-3860-a245-ba1d-b7bc0ee39c0e/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:620:13
+fire@resource://gre/modules/ExtensionChild.jsm:928:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:932:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+Extension error: TypeError: requestBody is null moz-extension://80951ebe-3860-a245-ba1d-b7bc0ee39c0e/background.js 269
+[[Exception stack
+@moz-extension://80951ebe-3860-a245-ba1d-b7bc0ee39c0e/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:620:13
+fire@resource://gre/modules/ExtensionChild.jsm:928:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:932:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+Extension error: TypeError: requestBody is null moz-extension://80951ebe-3860-a245-ba1d-b7bc0ee39c0e/background.js 269
+[[Exception stack
+@moz-extension://80951ebe-3860-a245-ba1d-b7bc0ee39c0e/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:620:13
+fire@resource://gre/modules/ExtensionChild.jsm:928:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:932:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+Extension error: TypeError: requestBody is null moz-extension://80951ebe-3860-a245-ba1d-b7bc0ee39c0e/background.js 269
+[[Exception stack
+@moz-extension://80951ebe-3860-a245-ba1d-b7bc0ee39c0e/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:620:13
+fire@resource://gre/modules/ExtensionChild.jsm:928:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:932:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+Extension error: TypeError: requestBody is null moz-extension://80951ebe-3860-a245-ba1d-b7bc0ee39c0e/background.js 269
+[[Exception stack
+@moz-extension://80951ebe-3860-a245-ba1d-b7bc0ee39c0e/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:620:13
+fire@resource://gre/modules/ExtensionChild.jsm:928:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:932:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+Extension error: TypeError: requestBody is null moz-extension://80951ebe-3860-a245-ba1d-b7bc0ee39c0e/background.js 269
+[[Exception stack
+@moz-extension://80951ebe-3860-a245-ba1d-b7bc0ee39c0e/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:620:13
+fire@resource://gre/modules/ExtensionChild.jsm:928:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:932:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+Extension error: TypeError: requestBody is null moz-extension://80951ebe-3860-a245-ba1d-b7bc0ee39c0e/background.js 269
+[[Exception stack
+@moz-extension://80951ebe-3860-a245-ba1d-b7bc0ee39c0e/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:620:13
+fire@resource://gre/modules/ExtensionChild.jsm:928:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:932:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+1589551226823	Marionette	INFO	Stopped listening on port 56632
+1589551425603	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tl/g7krxsl96xb8qz7r7vbpjh55_dwyb3/T/rust_mozprofileeB869C"
+1589551425983	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589551426181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589551426181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589551426181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589551426181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589551427954	Marionette	INFO	Listening on port 57618
+1589551427968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6A0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1589551485017	Marionette	INFO	Stopped listening on port 57618
+1589551486209	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tl/g7krxsl96xb8qz7r7vbpjh55_dwyb3/T/rust_mozprofileQNa7RD"
+1589551486714	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589551486910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589551486910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589551486910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589551486910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589551488435	Marionette	INFO	Listening on port 57854
+1589551488475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+1589551515855	Marionette	INFO	Stopped listening on port 57854
+1589551535034	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tl/g7krxsl96xb8qz7r7vbpjh55_dwyb3/T/rust_mozprofilelZp967"
+1589551535413	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589551535608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589551535608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589551535608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589551535608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589551537132	Marionette	INFO	Listening on port 57953
+1589551537192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1589551745118	Marionette	INFO	Stopped listening on port 57953
+1589551748369	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tl/g7krxsl96xb8qz7r7vbpjh55_dwyb3/T/rust_mozprofilexaxZza"
+1589551748769	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589551748960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589551748960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589551748960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589551748960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589551750408	Marionette	INFO	Listening on port 58186
+1589551750432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+2020-05-15 19:39:42.132 firefox-bin[26690:1207726] WARNING: <NSSavePanel: 0x11d4aa100> found it necessary to prepare implicitly; please prepare panels using NSSavePanel rather than NSApplication or NSWindow.
+2020-05-15 19:39:43.133 firefox-bin[26690:1207726] WARNING: <NSSavePanel: 0x11d4aa100> found it necessary to start implicitly; please start panels using NSSavePanel rather than NSApplication or NSWindow.
+2020-05-15 19:39:43.133 firefox-bin[26690:1207726] WARNING: <NSSavePanel: 0x11d4aa100> running implicitly; please run panels using NSSavePanel rather than NSApplication.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:402:10
+
+1589551959420	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tl/g7krxsl96xb8qz7r7vbpjh55_dwyb3/T/rust_mozprofilei3kV5k"
+1589551959889	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589551960079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589551960079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589551960079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589551960079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589551961726	Marionette	INFO	Listening on port 58377
+1589551961772	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:402:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+1589552048786	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Extension error: TypeError: requestBody is null moz-extension://2bff5f07-0e07-464a-82ca-d0beee81656b/background.js 269
+[[Exception stack
+@moz-extension://2bff5f07-0e07-464a-82ca-d0beee81656b/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:620:13
+fire@resource://gre/modules/ExtensionChild.jsm:928:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:932:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+Extension error: TypeError: requestBody is null moz-extension://2bff5f07-0e07-464a-82ca-d0beee81656b/background.js 269
+[[Exception stack
+@moz-extension://2bff5f07-0e07-464a-82ca-d0beee81656b/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:620:13
+fire@resource://gre/modules/ExtensionChild.jsm:928:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:932:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+1589552134272	Marionette	INFO	Stopped listening on port 58186
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1589552137828	Marionette	INFO	Stopped listening on port 58377
+1589552141438	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tl/g7krxsl96xb8qz7r7vbpjh55_dwyb3/T/rust_mozprofile9YKknt"
+1589552141813	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589552142014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589552142014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589552142014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589552142014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589552143661	Marionette	INFO	Listening on port 58548
+1589552143697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1589552379084	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tl/g7krxsl96xb8qz7r7vbpjh55_dwyb3/T/rust_mozprofileLb6axX"
+1589552379733	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589552379977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589552379977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589552379978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589552379978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589552381647	Marionette	INFO	Listening on port 58738
+1589552381660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1589552457814	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tl/g7krxsl96xb8qz7r7vbpjh55_dwyb3/T/rust_mozprofileAourDY"
+1589552458299	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589552458604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589552458604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589552458604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589552458604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589552460458	Marionette	INFO	Listening on port 58860
+1589552460490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+1589552539823	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tl/g7krxsl96xb8qz7r7vbpjh55_dwyb3/T/rust_mozprofileK5SOz3"
+[Parent 26796, Gecko_IOThread] WARNING: pipe error: Socket is not connected: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+1589552540688	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589552540901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589552540902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589552540902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589552540902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589552542598	Marionette	INFO	Listening on port 59112
+1589552542696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589552543196	Marionette	INFO	Stopped listening on port 58860
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js, line 1: unreachable code after return statement
+1589552579449	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1589552638822	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1589552678922	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.

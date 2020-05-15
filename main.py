@@ -18,6 +18,7 @@ contact = input("Enter The Contact Name: ")
 
 selected_contact = driver.find_element_by_xpath("//span[@title='"+contact+"']")
 selected_contact.click()
+time.sleep(2)
 
 inp_xpath = '//div[@class="_2S1VP copyable-text selectable-text"][@contenteditable="true"][@data-tab="1"]'
 input_box = driver.find_element_by_xpath(inp_xpath)
